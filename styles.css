@@ -2,9 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,700&display=swap');
 
 
-body {
-    
-}
 .img1 {
     position: absolute;
    
@@ -15,7 +12,6 @@ body {
 .rect1 {
     position: absolute;
     top: 280px;
-   
     width: 375px;
     height: 470px;
     border: 0px;
