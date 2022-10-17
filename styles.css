@@ -3,13 +3,11 @@
 
 
 body {
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
+    
 }
 .img1 {
     position: absolute;
-    left: 40%;
+   
     width: 375px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -17,7 +15,7 @@ body {
 .rect1 {
     position: absolute;
     top: 280px;
-    left: 40%;
+   
     width: 375px;
     height: 470px;
     border: 0px;
@@ -86,6 +84,3 @@ body {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 375px) {
-    
-  }
